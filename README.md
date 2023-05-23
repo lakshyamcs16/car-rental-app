@@ -11,10 +11,8 @@
 » Sass / Scss <br>
 » React JS
 
-<h2>Screenshots of the Project 📸</h2>
+<h2>A recording of the Project 🎥 </h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
-
 <div align='center'>
-
+<img src="https://raw.githubusercontent.com/lakshyamcs16/car-rental-app/gh-pages/demo.gif" />
 </div>
